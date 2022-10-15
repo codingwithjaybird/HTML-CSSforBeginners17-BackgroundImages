@@ -1,0 +1,35 @@
+body {
+    font-style: arial;
+    text-align: center;
+}
+
+h2 {
+    color: #FFF;
+}
+
+p {
+    color: #FFF;
+    font-size: 20px;
+}
+
+/* #animal {
+    background-color: plum;
+    margin: 20px;
+    padding: 200px;
+    background-image: url(../img/kitten.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+} */
+
+
+#animal {
+    background-color: plum;
+    margin: 20px;
+    padding: 300px;
+    background-image: url(../img/dog.jpg);
+    background-size: cover;
+    background-position: center;
+    /* background-position: right 100px bottom 100px; */
+    background-attachment: fixed;
+}
